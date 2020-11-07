@@ -1,0 +1,13 @@
+laboratorium
+1. wyświetl wszystkie próbki DONE
+2. wyświetl niezbadane próbki DONE
+3. edytuj próbkę DONE
+
+Rejestracja
+1.Wyświetl skierowania DONE
+2.Wyszukaj skierowanie po imieniu i nazwisku lub ID
+wyświetla również przeprowadzone badania
+3.Dodaj nowe skierowanie DONE
+pyta czy dodać próbki do badań
+4.Edytuj skierowanie po imieniu i nazwisku lub id
+i tu opcja czy edytować dane czy edytować/dodawać próbki
